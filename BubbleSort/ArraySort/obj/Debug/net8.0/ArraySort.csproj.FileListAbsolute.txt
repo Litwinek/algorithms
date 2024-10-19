@@ -1,0 +1,14 @@
+C:\Users\freen\source\repos\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.exe
+C:\Users\freen\source\repos\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.deps.json
+C:\Users\freen\source\repos\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.runtimeconfig.json
+C:\Users\freen\source\repos\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.dll
+C:\Users\freen\source\repos\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.pdb
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.AssemblyInfoInputs.cache
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.AssemblyInfo.cs
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.dll
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\refint\ArraySort.dll
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.pdb
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.genruntimeconfig.cache
+C:\Users\freen\source\repos\ArraySort\ArraySort\obj\Debug\net8.0\ref\ArraySort.dll
